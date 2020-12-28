@@ -1,0 +1,14 @@
+dataset 数据集合
+align 布局 前 中 后
+raised-button 是按钮 可以加字体图标
+common-dialog 弹出框
+datepicker-ctrl 时间选择器
+html-dataset  可以解析 html标签
+upload-dataset 上传文件
+
+mat-checkbox mat-icon 复选框 字体图标 mat关键字
+
+vscode与qiuer 的序列化快捷键 shift+alt+f
+
+问题一  table-dataset 本地数据是来干嘛用的  用来格式转换
+问题二  怎么在框架中使用服务/模块 不用引入 在核心包里已经加入 可以直接使用
